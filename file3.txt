@@ -1,0 +1,1 @@
+Teste sur le 3 way merge, file.txt3
